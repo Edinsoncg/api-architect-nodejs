@@ -1,5 +1,5 @@
 const express = require('express');
-const SequelizeSneakerRepository = require('../../insfrastructure/database/SequelizeSneakerRepository');
+const SequelizeSneakerRepository = require('../../infraestructure/database/sequelizeSneakerRepository');
 const sneakerController = require('../controllers/SneakerController');
 const validateData= require('../../utils/validateData');
 

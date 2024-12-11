@@ -1,4 +1,4 @@
-const getAllSneakers = require('../../application/useCases/getAllSneakers');
+const getAllSneakers = require('../../application/useCases/getAllSneaker');
 const getSneakerById = require('../../application/useCases/getSneakerById');
 const createSneaker = require('../../application/useCases/createSneaker');
 const updateSneaker = require('../../application/useCases/updateSneaker');
